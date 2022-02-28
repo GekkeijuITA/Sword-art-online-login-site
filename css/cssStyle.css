@@ -1,0 +1,14 @@
+#username,#passwordLogin,#passwordRegister,#password{  
+    width:80%;
+    border-radius: 5px;
+    padding:5px;
+    margin: 3px;
+    border: 1px solid black;
+}
+input{
+    margin-left: 3px;
+    display: inline-block;
+}
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px white inset;
+}
